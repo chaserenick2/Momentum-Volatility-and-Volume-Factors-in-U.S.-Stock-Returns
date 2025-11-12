@@ -13,3 +13,7 @@
 
 # What changes are different on my computer than on the github.commit
     git status --porcelain
+
+
+# Add, Commit, Push all in one
+    git add (file) && git commit -m "Message" && git push origin main
